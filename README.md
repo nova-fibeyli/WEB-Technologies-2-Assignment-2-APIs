@@ -21,7 +21,7 @@ Ensure you have the following installed:
 ### **2. Setup Instructions**
 1. **Extract the Project**:
    ```powershell
-   cd C:\ass2
+   cd C:\ass2_final (1).zip 
    ```
 2. **Install dependencies**:
    ```powershell
